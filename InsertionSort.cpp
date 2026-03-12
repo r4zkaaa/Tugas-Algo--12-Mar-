@@ -67,4 +67,13 @@ void display()
         cout << arr[j] << endl;
     }
     cout << endl;
+}
+
+int main()
+{
+    input();
+    insertionsort();
+    display();
+    system("pause");
+}
     
