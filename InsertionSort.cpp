@@ -14,3 +14,12 @@ void input()
         if (n <= 20)
         {
             break;
+          }
+        else
+        {
+            cout << "\nArray Tidak Boleh Lebih Dari 20\n";
+        }
+    }
+    cout << endl;
+    cout << "=============================================";
+    cout << "==========Masukan Elemen Array==============";
